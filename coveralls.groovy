@@ -12,7 +12,7 @@ import static groovyx.net.http.Method.POST
 import org.apache.http.entity.mime.MultipartEntityBuilder
 import org.apache.http.entity.ContentType
 
-API_HOST = 'https://coveralls.io'
+API_HOST = 'https://hardcover.xing.hh'
 API_PATH = '/api/v1/jobs'
 
 COBERTURA_REPORT_PATH = 'build/reports/cobertura/coverage.xml'
